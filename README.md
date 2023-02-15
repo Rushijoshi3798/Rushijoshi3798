@@ -41,6 +41,8 @@
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/31a3905624faa4432ae90cae10f7406aa1af2e56d3bc082597cc0f45ee47d92d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73687265736874686b722673686f775f69636f6e733d74727565266c6f63616c653d656e"><img align="center" style="max-width: 35%; margin-left: 40%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=rushijoshi3798&show_icons=true&locale=en" alt="rushijoshi3798" /></a><br></br>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a0185bed7599bbc9713f38a0232c1286c64bcf807dc58644462366eda8500b4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73687265736874686b7226"><img align="center" style="max-width: 100%; margin-left: 45%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com/?user=rushijoshi3798&" alt="rushijoshi3798" /></a>
      
-</p>
 
+
+<p align="center" dir="auto">
 <img src="https://camo.githubusercontent.com/c731fdac3ea002f80d216c4f9df4c0f125e12b839988425505054fb46ac8ab02/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5562756e747526636f6c6f723d253233304541413230267643656e7465723d74727565266c696e65733d5468616e6b732b666f722b7669736974696e67212b596f752772652b77656c636f6d6521" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&amp;color=%230EAA20&amp;vCenter=true&amp;lines=Thanks+for+visiting!+You're+welcome!" style="max-width: 100%; display: block;">
+</p>
