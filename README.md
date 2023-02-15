@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/rushijoshi3798" target="blank"><img src="https://img.shields.io/twitter/follow/rushijoshi3798?logo=twitter&style=for-the-badge" alt="rushijoshi3798" /></a> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kdwgjOFzfqFQ0ZaANLVuD6JZcNH9bDSO/view?usp=sharing)
+- 👯 I’m looking to collaborate on **boAt clone & Twitter clone**
 
 - 🌱 I’m currently learning **Grommet, flutter**
 
-- 👯 I’m looking to collaborate on **boAt clone & Twitter clone**
-
 - 👨‍💻 All of my projects are available at [RushiJoshi.com](https://rushijoshi3798.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://rushijoshi3798.github.io/](https://rushijoshi3798.github.io/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kdwgjOFzfqFQ0ZaANLVuD6JZcNH9bDSO/view?usp=sharing)
 
 - 💬 Ask me about **ReactJS, ExpressJS, Javascript**
 
