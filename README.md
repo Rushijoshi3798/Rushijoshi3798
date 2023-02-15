@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rushi Joshi</h1>
 <h3 align="center">A Passionate MERN stack developer from India</h3>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/4af2b296c6f6541df7f65e3a151e31005c0a066de2b756eaf92fb0e0119c28a9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e6769663f6369643d373930623736313134343336383961613739663031346163623832393737386236393839306133666330316631366661267269643d67697068792e6769662663743d67" alt="coder" align="right" height="220px" data-canonical-src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611443689aa79f014acb829778b69890a3fc01f16fa&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <p align="left"> <a href="https://twitter.com/rushijoshi3798" target="blank"><img src="https://img.shields.io/twitter/follow/rushijoshi3798?logo=twitter&style=for-the-badge" alt="rushijoshi3798" /></a> </p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kdwgjOFzfqFQ0ZaANLVuD6JZcNH9bDSO/view?usp=sharing)
