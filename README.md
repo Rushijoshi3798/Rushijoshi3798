@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Grommet, flutter**
 
-- 👨‍💻 All of my projects are available at [RushiJoshi.com](https://rushijoshi3798.github.io/)
+- 👨‍💻 All of my projects are available at [rushijoshi3798.github.io](https://rushijoshi3798.github.io/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kdwgjOFzfqFQ0ZaANLVuD6JZcNH9bDSO/view?usp=sharing)
 
