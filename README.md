@@ -34,7 +34,7 @@
 
 
 <p align="center" dir="auto">
-     <img align="center" style=" margin-left: 25%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Rushijoshi3798&theme=prussian" alt="rushijoshi3798" /><br></br>
+     <img align="center" style=" margin-left: 25%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rushijoshi3798" alt="rushijoshi3798" /><br></br>
      <img align="center" style="max-width: 35%; margin-left: 40%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=rushijoshi3798&show_icons=true&locale=en" alt="rushijoshi3798" /><br></br>
      <img align="center" style="max-width: 100%; margin-left: 45%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Rushijoshi3798" alt="rushijoshi3798" /></p>
      
