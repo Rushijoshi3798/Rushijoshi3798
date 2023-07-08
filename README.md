@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rushijoshi3798" target="blank"><img src="https://img.shields.io/twitter/follow/rushijoshi3798?logo=twitter&style=for-the-badge" alt="rushijoshi3798" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Twitter clone**
+- 👯 I’m looking to collaborate on **boAt clone**
 
 - 👨‍💻 All of my projects are available at [rushijoshi3798.github.io](https://rushijoshi3798.github.io/)
 
