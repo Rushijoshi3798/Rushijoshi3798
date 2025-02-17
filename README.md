@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [rushijoshi3798.github.io](https://rushijoshi3798.github.io/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1QOuCgfYDNP2_bzTTWteSK8LkTQOlU78O)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10MG8HHCVeDH897TUoIel4JncwHTsNdq4/view)
 
 - 💬 Ask me about **ReactJS, Typescript, Javascript, Data-structures & Algorithms**
 
