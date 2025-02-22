@@ -9,11 +9,11 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10MG8HHCVeDH897TUoIel4JncwHTsNdq4/view)
 
-- 💬 Ask me about **ReactJS, Typescript, Javascript, Data-structures & Algorithms**
+- 💬 Ask me about **Shopify, Liquid, Shopify Headless, Remix, Hydrogen, Tailwind, ReactJS, Typescript, Javascript, Data-structures & Algorithms**
 
 - 📫 How to reach me **rushijoshi3798@gmail.com**
 
-- ⚡ Fun fact -  **I've perfected the art of "CDD" (Coffee-Driven Development)**
+- ⚡ Fun fact -  **I've perfected the art of "CDD" (Coffee Driven Development)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
