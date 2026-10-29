@@ -95,19 +95,6 @@ Our work includes:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushijoshi3798&show_icons=true&hide_border=true&rank_icon=github" alt="Rushi's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijoshi3798&layout=compact&hide_border=true" alt="Most used programming languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rushijoshi3798&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=0EAA20&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Building+useful+digital+experiences;Code.+Coffee.+Create.+Repeat." alt="Thanks for visiting my GitHub profile" />
 </p>
